@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "ghost": "^1.5.2"
+  },
+  "devDependencies": {
+    "ghost-cli": "^1.0.3"
+  }
+}
